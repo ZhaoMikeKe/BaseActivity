@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@mipmap/ic_loading_round_1"
+        android:duration="350" />
+    <item
+        android:drawable="@mipmap/ic_loading_round_2"
+        android:duration="350" />
+    <item
+        android:drawable="@mipmap/ic_loading_round_3"
+        android:duration="350" />
+
+
+</animation-list>
